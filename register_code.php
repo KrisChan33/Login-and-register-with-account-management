@@ -18,7 +18,7 @@
 
             if($query_run){
                 $_SESSION['register_status']='Successfully Registered';
-                header('Location:Index.html');
+                header('Location:Login.php');
             } else {
                 $_SESSION['register_status']='Register Failed';
             }

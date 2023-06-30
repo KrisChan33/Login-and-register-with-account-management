@@ -17,7 +17,7 @@ if(isset($_SESSION['status'])){
 
 
 <div class="row justify-content-center py-5 " >
-<a href="Index.html" style="text-decoration:none; text-align:right; margin-top:-30px; margin-right:50px;"> <button class="btn bg-primary text-white">LOGOUT</button></a>
+<a href="Login.php" style="text-decoration:none; text-align:right; margin-top:-30px; margin-right:50px;"> <button class="btn bg-primary text-white">LOGOUT</button></a>
 
 <div class="col-md-6 ">
 <?php 

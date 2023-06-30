@@ -40,13 +40,13 @@ session_start();
                 #echo "s".$SESSION_['status'] = "Login Failed";
                  #header("location: Dashboard.php.php");
                  $SESSION['status'] = "Login Failed";
-                 header("Location = Index.html");
+                 header("Location = Login.php");
                   die(mysqli_error($connection));
             }
         } else { 
             #echo "<h2> hello </h2>";
             $SESSION['status1'] = " Login Failed";
-                header("Location:Index.html");
+                header("Location:Login.php");
                 die(mysqli_error($connection));
 
         }

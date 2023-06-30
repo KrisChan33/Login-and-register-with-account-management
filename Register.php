@@ -67,7 +67,7 @@
 
                                 <div class="row text-center">
                                 <div class="col-md-6">
-                                <a href="Index.html" class="btn mt-3 btn-danger" name="clear" type="Cancel">Cancel</a>
+                                <a href="Login.php" class="btn mt-3 btn-danger" name="clear" type="Cancel">Cancel</a>
 
                                 </div>
 

@@ -15,7 +15,7 @@
         <div class="col-md-6">
             <div class="card ">
                 <div class="card-header bg-info">
-                    <h3 class="text-center text-dark text-white ">Registration Form</h3>   
+                    <h3 class="text-center text-dark text-white ">Add User</h3>   
               </div>
                     <form action="Add_User_Code.php" method="post">
                         <div class="card-body">

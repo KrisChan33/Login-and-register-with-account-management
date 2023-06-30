@@ -8,17 +8,17 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 </head>
 
-<body class="bg-info bg-opacity-50">
+<body >
 <section class="py-5" >
-<div class="container ">
-    <div class="row justify-content-center">
+<div class="container">
+    <div class="row justify-content-center rounded">
         <div class="col-md-6">
-            <div class="card">
-                <div class="card-header">
-                    <h3 class="text-center text-dark">Registration Form</h3>   
+            <div class="card ">
+                <div class="card-header bg-info">
+                    <h3 class="text-center text-dark text-white ">Registration Form</h3>   
               </div>
                     <form action="register_code.php" method="post">
-                        <div class="card-body ">
+                        <div class="card-body">
                             <div class="row">
 
                             <div class="col-md-12">

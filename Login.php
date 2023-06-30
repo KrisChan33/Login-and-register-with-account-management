@@ -35,7 +35,7 @@ session_start();
 
 -->
 
-        <div class="container" style="height: 400px; width:400px;  margin-left:350px; margin-top: 150px;">
+        <div class="container" style="height: 400px; width:400px;  margin-left:350px; margin-top: 120px;">
            
            
             <form action="Login_code.php" method="post" role="form" class="border border-info rounded " align="center">

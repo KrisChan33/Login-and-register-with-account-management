@@ -6,6 +6,22 @@
    } else {
       include "Dashboard_code.php";
     $id = $_GET['updateid'];
+
+
+   #Fetch the sql information of the user wants to update
+    $sql = "SELECT * FROM user_accounts where User_ID = '$id'";
+    $result = mysqli_query($conn,$sql);
+    $row = mysqli_fetch_assoc($result);
+    $user_ID=$row ['User_ID'];
+    $username=$row ['Username'];
+    $firstname=$row ['Firstname'];
+    $lastname=$row ['Lastname'];
+    $email=$row ['Email_Address'];
+    $password=$row ['Passwords'];
+
+
+
+
     if(isset($_POST['submit'])){
     $username = $_POST['username']; 
     $firstname = $_POST['firstname']; 

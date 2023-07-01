@@ -104,8 +104,6 @@ This section  list are the major  used to to develop the Project.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This doesn't rely on any external dependencies or services._
-
 1. Just download all the Folder of "Login-and-register-with-account-management" Folder  
 
 2.  After Download Input in the Htdocs if you are using Xampp server

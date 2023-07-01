@@ -178,9 +178,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Project Link: [https://github.com/KrisChan33/Obstacle-Odyssey-3D](https://github.com/KrisChan33/Obstacle-Odyssey-3D)
-
 Email Address: Ktadeo.pbox@parsu.edu.ph
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -207,7 +204,6 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Godot Engine]:https://godotengine.org/
 [contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
 [contributors-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge

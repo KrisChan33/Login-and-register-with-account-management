@@ -88,7 +88,7 @@ I created a simple  login with register and has a simple account management usin
 
 
 ### How to it  Works
-  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/howitworks.gif">
+  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/0701.gif">
    
 
 ### Built With</p>

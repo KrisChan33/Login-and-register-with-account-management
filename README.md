@@ -1,6 +1,5 @@
 # Login and register with account management
 I created a simple  login with register and has a simple account management using html,php,bootstrap 
-
  
 <br> 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
@@ -37,7 +36,6 @@ I created a simple  login with register and has a simple account management usin
     <li>
       <a href="#Game-Overview">Game Overview</a>
       <ul>
-        <li><a href ="#Goal">Goal</li>
           <li><a href ="#Batch Script #1 : Delete all Temporary Files Every 5 Seconds">Delete all Temporary Files Every 5 Seconds</li>
        <li><a href ="#">#Batch Script #2: Show Information of System</li>
          <li><a href ="#">#Batch Script #3</li>
@@ -72,9 +70,6 @@ I created a simple  login with register and has a simple account management usin
 </p>
 
 <div align = "Justify">
- 
-### Goal
-<p>My Goal is to create a batch scripts that can easily do a simple task for me. I create this scripts easily do the task by the help of batch command I easily created a shortcut to do a specific task</p> 
 
 ### Batch Script #1 : Delete All Temporary Files Every 5 Seconds
 <h4>This Batch Script can delete all Temporary file Every 5 Seconds.</h4>

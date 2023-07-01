@@ -34,15 +34,15 @@ I created a simple  login with register and has a simple account management usin
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Game-Overview">Game Overview</a>
+      <a href="#Overview">Overview</a>
       <ul>
-          <li><a href ="#Batch Script #1 : Delete all Temporary Files Every 5 Seconds">Delete all Temporary Files Every 5 Seconds</li>
-       <li><a href ="#">#Batch Script #2: Show Information of System</li>
-         <li><a href ="#">#Batch Script #3</li>
-         <li><a href ="#">#Batch Script #4</li>
-         <li><a href ="#">#Batch Script #5</li>
-         <li><a href="#">#Batch Script #6</a></li>
-         <li><a href ="#">#Batch Script #7</li>
+          <li><a href ="#Login Interface">Login Interface</li>
+       <li><a href ="#Register Interface">Register Interface</li>
+         <li><a href ="#Account Management Interface">Account Management Interface</li>
+         <li><a href ="#Add Users Interfac">Add Users Interfac</li>
+         <li><a href ="Update Interface">Update Interface</li>
+         <li><a href="#How to it  Works">How to it  Works #6</a></li>
+         <li><a href ="#"></li>
       </ul>
     </li>
     <li>
@@ -64,10 +64,9 @@ I created a simple  login with register and has a simple account management usin
 
 <!-- ABOUT THE PROJECT -->
 ##  Overview
-<br />
-<p align="center"> 
-  <img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/batch-file.png">
-</p>
+
+### How to it  Works
+  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/0701.gif">
 
 <div align = "Justify">
 
@@ -87,8 +86,7 @@ I created a simple  login with register and has a simple account management usin
   <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/update_information.PNG">
 
 
-### How to it  Works
-  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/howitworks.gif">
+
    
 
 ### Built With</p>
@@ -96,9 +94,9 @@ I created a simple  login with register and has a simple account management usin
 This section  list are the major  used to to develop the Project.
 
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
-
-- Mixamo:[Character](https://godotengine.org/)
-  
+- [Bootstrap](https://getbootstrap.com/)
+- [HTML5](https://webplatform.github.io/docs/html/html5/)
+- [Php](https://www.php.net/docs.php)
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -107,17 +105,19 @@ This section  list are the major  used to to develop the Project.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can instruct your audience on installing and setting up your app. This doesn't rely on any external dependencies or services._
 
-1. Just go to the Folder of "Batch File/Bash Scripts" Folder  
+1. Just download all the Folder of "Login-and-register-with-account-management" Folder  
 
-2.  choose what Batch Script you want to download 
+2.  After Download Input in the Htdocs if you are using Xampp server
 
-3. then Download  the file
+3. export the sql file in the mysql database
 
-4. Install
+5. then run it in your search engine like google or any web services you have.
    
-6. Done
+4.  Done
+   
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -178,9 +178,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Project Link: [https://github.com/KrisChan33/Obstacle-Odyssey-3D](https://github.com/KrisChan33/Obstacle-Odyssey-3D)
-
 Email Address: Ktadeo.pbox@parsu.edu.ph
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -207,17 +204,16 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Godot Engine]:https://godotengine.org/
-[contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/BatchScripts.svg?style=for-the-badge
-[contributors-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KrisChan33/BastchScripts.svg?style=for-the-badge
-[forks-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/network/members
-[stars-shield]: https://img.shields.io/github/stars/KrisChan33/BatchScripts.svg?style=for-the-badge
-[stars-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/stargazers
-[issues-shield]: https://img.shields.io/github/issues/KrisChan33/BatchScripts.svg?style=for-the-badge
-[issues-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/issues
-[license-shield]: https://img.shields.io/github/license/KrisChan33/BatchScripts.svg?style=for-the-badge
-[license-url]: https://github.com/KrisChan33/BatchScripts/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
+[contributors-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
+[forks-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/network/members
+[stars-shield]: https://img.shields.io/github/stars/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
+[stars-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/stargazers
+[issues-shield]: https://img.shields.io/github/issues/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
+[issues-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/issues
+[license-shield]: https://img.shields.io/github/license/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
+[license-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/blob/master/LICENSE
 [linkedin-url]: https://linkedin.com/in/kristian-jay-tadeo
 
 <hr>

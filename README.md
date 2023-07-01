@@ -71,119 +71,26 @@ I created a simple  login with register and has a simple account management usin
 
 <div align = "Justify">
 
-### Batch Script #1 : Delete All Temporary Files Every 5 Seconds
-<h4>This Batch Script can delete all Temporary file Every 5 Seconds.</h4>
+### Login Interface
+  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/login.png">
 
-#### Interface
-  <img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/interface.gif">
-
-#### How to it  Works
-  <img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/how%20it%20works.gif">
-
- What the Batch can delete or remove? this are the example; 
- 
--  Internet cookies
-
--  Pretech
-
--  dll cache
-
--  temporary History Files
-
--  Internet Temporary files
-
--  Local Temporary File
-
-
-</div>
-
-### Batch Script #2 :Show Information of system
-#### Interface
- <i>to be followed</i> <!--<img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/interface.gif">-->
-
-#### How to it  Works
- <i>to be followed</i> <!--<img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/how%20it%20works.gif"> -->
-
- What the Batch can Show? this are the example; 
- 
--   Server address
+### Register Interface
+  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/registration.png">
   
--  Ip address
+### Account Management Interface
+  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/dashboard.PNG">
 
--  Operationg System with Version
+### Add Users Interface
+  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/add%20User.PNG">
 
--  username
-
--   time and date execute the batch file #2 
-
-- Profiles on interface Wi-Fi
-    - User profiles
-      
--  Windows IP Configuration
-   -  Wireless Lan Adapter Local Area Connections
-   -  Ethernet Adapter
-   -  Wireless Lan Adapter
-   -  Ethernet adapter Bluetooth Network Connection
--  Size
-  
--  Cpu information
-  
--  System Informations like;
-  
-Host Name:         
-OS Name:               
-OS Version:              
-OS Manufacturer:  
-OS Configuration:  
-OS Build Type:           
-Registered Owner:          
-Registered Organization:  
-Product ID:               
-Original Install Date:    
-System Boot Time:         
-System Manufacturer:    
-System Model:         
-System Type:             
-Processor(s):             
-                      
-BIOS Version:           
-Windows Directory:       
-System Directory:       
-Boot Device:             
-System Locale:             
-Input Locale:              
-Time Zone:                
-Total Physical Memory:    
-Available Physical Memory: 
-Virtual Memory: Max Size:  
-Virtual Memory: Available: 
-Virtual Memory: In Use:  
-Page File Location(s):     
-Domain:                   
-Logon Server:             
-Hotfix(s):                  
-Network Card(s):          
+### Update Interface
+  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/update_information.PNG">
 
 
+### How to it  Works
+  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/howitworks.gif">
    
 
-<br/>
-
-### Batch Script #3
-<i>to be followed</i>
-
-<br/>
-
-### #Batch Script #4
-<i>to be followed</i>
-
-<br/>
-
-### #Batch Script #5
-<i>to be followed</i>
-
-<br/>
- 
 ### Built With</p>
 
 This section  list are the major  used to to develop the Project.

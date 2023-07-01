@@ -7,7 +7,7 @@ include "update_connection.php"
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration</title>
+    <title>Update</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 </head>
@@ -17,6 +17,17 @@ include "update_connection.php"
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-6">
+            <?php
+            if(isset($_GET['update'])){
+                $update = $_GET['update'];
+                echo '<div class="alert alert-success alert-dismissible fade show" role="alert">
+                <strong>'.$update.'</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+              </div>';
+            }
+            
+            
+            ?>
             <div class="card">
                 <div class="card-header bg-info">
                     <h3 class="text-center text-white">Update Information</h3>   

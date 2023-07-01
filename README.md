@@ -64,10 +64,9 @@ I created a simple  login with register and has a simple account management usin
 
 <!-- ABOUT THE PROJECT -->
 ##  Overview
-<br />
-<p align="center"> 
-  <img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/batch-file.png">
-</p>
+
+### How to it  Works
+  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/0701.gif">
 
 <div align = "Justify">
 
@@ -87,8 +86,7 @@ I created a simple  login with register and has a simple account management usin
   <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/update_information.PNG">
 
 
-### How to it  Works
-  <img align = "center" src = "https://github.com/KrisChan33/Login-and-register-with-account-management/blob/main/Images/0701.gif">
+
    
 
 ### Built With</p>
@@ -96,9 +94,9 @@ I created a simple  login with register and has a simple account management usin
 This section  list are the major  used to to develop the Project.
 
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
-
-- Mixamo:[Character](https://godotengine.org/)
-  
+- Bootstrap:[Character](https://webplatform.github.io/docs/html/html5/)
+- html[Character](https://godotengine.org/)
+- Php[Character](https://godotengine.org/)
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

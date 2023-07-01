@@ -36,13 +36,12 @@ I created a simple  login with register and has a simple account management usin
     <li>
       <a href="#Overview">Overview</a>
       <ul>
+         <li><a href="#How to it  Works">How to it  Works</a></li>
           <li><a href ="#Login Interface">Login Interface</li>
        <li><a href ="#Register Interface">Register Interface</li>
          <li><a href ="#Account Management Interface">Account Management Interface</li>
-         <li><a href ="#Add Users Interfac">Add Users Interfac</li>
+         <li><a href ="#Add Users Interface">Add Users Interfac</li>
          <li><a href ="Update Interface">Update Interface</li>
-         <li><a href="#How to it  Works">How to it  Works #6</a></li>
-         <li><a href ="#"></li>
       </ul>
     </li>
     <li>
@@ -204,16 +203,16 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
-[contributors-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
-[forks-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/network/members
-[stars-shield]: https://img.shields.io/github/stars/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
-[stars-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/stargazers
-[issues-shield]: https://img.shields.io/github/issues/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
-[issues-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/issues
-[license-shield]: https://img.shields.io/github/license/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
-[license-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/Login-and-register-with-account-management.svg?style=for-the-badge
+[contributors-url]: https://github.com/KrisChan33/Login-and-register-with-account-management/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/KrisChan33/Login-and-register-with-account-management.svg?style=for-the-badge
+[forks-url]: https://github.com/KrisChan33/Login-and-register-with-account-management/network/members
+[stars-shield]: https://img.shields.io/github/stars/KrisChan33/Login-and-register-with-account-management.svg?style=for-the-badge
+[stars-url]: https://github.com/KrisChan33/Login-and-register-with-account-management/stargazers
+[issues-shield]: https://img.shields.io/github/issues/KrisChan33/Login-and-register-with-account-management.svg?style=for-the-badge
+[issues-url]: https://github.com/KrisChan33/Login-and-register-with-account-management/issues
+[license-shield]: https://img.shields.io/github/license/KrisChan33/Login-and-register-with-account-management.svg?style=for-the-badge
+[license-url]: https://github.com/KrisChan33/Login-and-register-with-account-management/blob/master/LICENSE
 [linkedin-url]: https://linkedin.com/in/kristian-jay-tadeo
 
 <hr>

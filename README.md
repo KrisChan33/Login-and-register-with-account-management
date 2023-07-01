@@ -94,9 +94,9 @@ I created a simple  login with register and has a simple account management usin
 This section  list are the major  used to to develop the Project.
 
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
-- Bootstrap:[Character](https://webplatform.github.io/docs/html/html5/)
-- html[Character](https://godotengine.org/)
-- Php[Character](https://godotengine.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- [HTML5](https://webplatform.github.io/docs/html/html5/)
+- [Php](https://www.php.net/docs.php)
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -105,17 +105,19 @@ This section  list are the major  used to to develop the Project.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can instruct your audience on installing and setting up your app. This doesn't rely on any external dependencies or services._
 
-1. Just go to the Folder of "Batch File/Bash Scripts" Folder  
+1. Just download all the Folder of "Login-and-register-with-account-management" Folder  
 
-2.  choose what Batch Script you want to download 
+2.  After Download Input in the Htdocs if you are using Xampp server
 
-3. then Download  the file
+3. export the sql file in the mysql database
 
-4. Install
+5. then run it in your search engine like google or any web services you have.
    
-6. Done
+4.  Done
+   
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -206,16 +208,16 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Godot Engine]:https://godotengine.org/
-[contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/BatchScripts.svg?style=for-the-badge
-[contributors-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KrisChan33/BastchScripts.svg?style=for-the-badge
-[forks-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/network/members
-[stars-shield]: https://img.shields.io/github/stars/KrisChan33/BatchScripts.svg?style=for-the-badge
-[stars-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/stargazers
-[issues-shield]: https://img.shields.io/github/issues/KrisChan33/BatchScripts.svg?style=for-the-badge
-[issues-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/issues
-[license-shield]: https://img.shields.io/github/license/KrisChan33/BatchScripts.svg?style=for-the-badge
-[license-url]: https://github.com/KrisChan33/BatchScripts/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
+[contributors-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
+[forks-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/network/members
+[stars-shield]: https://img.shields.io/github/stars/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
+[stars-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/stargazers
+[issues-shield]: https://img.shields.io/github/issues/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
+[issues-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/issues
+[license-shield]: https://img.shields.io/github/license/KrisChan33/BreadcrumbsLogin-and-register-with-account-management.svg?style=for-the-badge
+[license-url]: https://github.com/KrisChan33/BreadcrumbsLogin-and-register-with-account-management/blob/master/LICENSE
 [linkedin-url]: https://linkedin.com/in/kristian-jay-tadeo
 
 <hr>

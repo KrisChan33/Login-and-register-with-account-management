@@ -17,13 +17,16 @@
         $query_run = mysqli_query($conn, $query);
 
             if($query_run){
-                $_SESSION['register_status']='Successfully Registered';
-                header('Location:Dashboard.php');
+               
+                header('Location:Dashboard.php?msgs=Successfully Registered');
             } else {
-                $_SESSION['register_status']='Register Failed';
+                header('Location:Add User.php.php?msgf=Add User Failed');
+               # echo "Failed:".mysqli_error($conn);
             }
     } else {
-        echo "Password Mismatch";
+       # echo "Password Mismatch";
+        header('Location:Add User.php?msgf2=Input Password!');
+
     }
 }
 

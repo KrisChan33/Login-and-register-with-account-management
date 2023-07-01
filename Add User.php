@@ -10,9 +10,20 @@
 
 <body >
 <section class="py-5" >
+  
 <div class="container">
+    
     <div class="row justify-content-center rounded">
         <div class="col-md-6">
+        <?php
+if(isset($_GET['msgf2'])){
+    $msgf2 = $_GET['msgf2'];
+    echo '<div class=" alert alert-warning alert-dismissible fade show" role="alert">
+    <strong>'.$msgf2.'</strong>  Mismatch
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+  </div>';}
+  
+     ?>
             <div class="card ">
                 <div class="card-header bg-info">
                     <h3 class="text-center text-dark text-white ">Add User</h3>   

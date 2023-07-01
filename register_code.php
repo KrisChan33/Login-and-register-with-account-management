@@ -17,13 +17,15 @@
         $query_run = mysqli_query($conn, $query);
 
             if($query_run){
-                $_SESSION['register_status']='Successfully Registered';
-                header('Location:Login.php');
+               # $_SESSION['register_status']='';
+                header('Location:Login.php?registermsg=Successfully Registered');
             } else {
-                $_SESSION['register_status']='Register Failed';
+                header('Location:Login.php?registermsgf=Failed to Register');
+              #  $_SESSION['register_status']='Register Failed';
             }
     } else {
         echo "Password Mismatch";
+        header('Location:Register.php?mismatch=Password Mismatch');
     }
 }
 

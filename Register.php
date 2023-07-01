@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registration</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 </head>
 
@@ -13,9 +13,23 @@
 <div class="container">
     <div class="row justify-content-center rounded">
         <div class="col-md-6">
+            <?php
+            if (isset($_GET['mismatch'])){
+                $mismatch = $_GET['mismatch'];
+                echo'<div class=" alert alert-warning alert-dismissible fade show" role="alert">
+                <strong>'.$mismatch.'</strong> saved in database
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+                 </div>';
+            }
+            
+            
+            
+            ?> 
             <div class="card ">
                 <div class="card-header bg-info">
-                    <h3 class="text-center text-dark text-white ">Registration Form</h3>   
+                    <h3 class="text-center   text-white ">Registration Form</h3>   
               </div>
                     <form action="register_code.php" method="post">
                         <div class="card-body">
@@ -63,20 +77,21 @@
                                         <input type="password" class="form-control" name="confirm_password" placeholder="Confirm Password" required> 
                                     </div>
                                 </div>
+                                <div class="col-md-12 ">
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="Login.php" class="btn btn-danger ml-5 mr-5 " name="clear" type="Cancel">Cancel</a>
+                                <button class="btn btn-primary text-right ml-5" name="Register"  type="submit">Register</button>
+                            
+                            </div>
+
+   
+           
+         
+
+            
+
+        </div>
+        </div>
                                 
-
-                                <div class="row text-center">
-                                <div class="col-md-6">
-                                <a href="Login.php" class="btn mt-3 btn-danger" name="clear" type="Cancel">Cancel</a>
-
-                                </div>
-
-                                <div class="col-md-6 mt-3">
-                                <button class="btn btn-primary text-white" name="Register"  type="submit">Register</button>
-                                    
-                                </div>
-
-                                </div>
 
                         
 

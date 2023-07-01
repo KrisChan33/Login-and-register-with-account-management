@@ -36,12 +36,13 @@
         $query_run = mysqli_query($conn, $query);
 
             if($query_run){
-               echo "Updated Successfully";
+               #echo "Updated Successfully";
                //$_SESSION['register_status']='Successfully Registered';
-              header('Location:Dashboard.php');
+              header('Location:Dashboard.php?update=Successfully Updated');
             } else {
                 //$_SESSION['register_status']='Register Failed';
-               echo "Update Failed";
+              header('Location:Dashboard.php?updatef=Update Failed');
+
 
             }
     } else {

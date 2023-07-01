@@ -9,8 +9,7 @@ if(isset($_GET['deleteid'])); {
     $sql = "delete from user_accounts where User_ID = $id";
     $result = mysqli_query($conn,$sql);
             if($result){
-                echo "Deleted Successfully";
-                  header("Location:Dashboard.php");
+                  header("Location:Dashboard.php?msgdel=Successfully Deleted");
             } else{
                 die(mysqli_error($conn));
             }

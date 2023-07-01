@@ -9,15 +9,13 @@
 
 <?php
 session_start();
-
  $user = $_POST['username'];
  $pass = $_POST['password'];
-
 
  //Database connection
  $connection = new mysqli("localhost","root","","login_with_register");
     if($connection->connect_error) {
-        die("Failed To connect:" .$con->connection_error);
+        die("Failed To connect:".$con->connection_error);
     } else {
         
         $statement = $connection->prepare("select * from user_accounts where Username = ?");
@@ -32,22 +30,17 @@ session_start();
                # header('location:Dashboard.php');
               #  die;
                # $SESSION_['status'] = "<h1>Login Successfully</h1>";
-               $_SESSION['status'] = "Login Successfully";
-               header("location: Dashboard.php");
+               header("location: Dashboard.php? msg= Login Successfully");
                 #echo " <h2> Login Successfully <h2>";
-            } else {
+            } else {    
                 #echo " <h2> Login Failed <h2>";
                 #echo "s".$SESSION_['status'] = "Login Failed";
                  #header("location: Dashboard.php.php");
-                 $SESSION['status'] = "Login Failed";
-                 header("Location = Login.php");
-                  die(mysqli_error($connection));
+                 header("location: Login.php? msg= Login Failed");
             }
         } else { 
             #echo "<h2> hello </h2>";
-            $SESSION['status1'] = " Login Failed";
-                header("Location:Login.php");
-                die(mysqli_error($connection));
+            header("location: Login.php? msg= Login Failed");
 
         }
     }

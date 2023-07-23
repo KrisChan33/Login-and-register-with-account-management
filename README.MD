@@ -92,7 +92,6 @@ I created a simple  login with register and has a simple account management usin
 
 This section  list are the major  used to to develop the Project.
 
-- [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
 - [Bootstrap](https://getbootstrap.com/)
 - [HTML5](https://webplatform.github.io/docs/html/html5/)
 - [Php](https://www.php.net/docs.php)
